@@ -1,7 +1,7 @@
 # AnatolyKustanovich.github.io
 
 Welcome to my page ;)!
-
+<img src="PHOTO.jpg" width="300" style="border-radius: 15px;" align="right">
 My name is **Anatoly Kustanovich**. 
 I work in the [Weizmann Insitute of Science](https://www.weizmann.ac.il/pages/) in the [laboratory of Prof. Schraga Schwartz](https://www.weizmann.ac.il/molgen/schwartz/).
 
