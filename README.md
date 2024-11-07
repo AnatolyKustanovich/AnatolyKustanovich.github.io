@@ -1,9 +1,12 @@
-# AnatolyKustanovich.github.io
+# Anatoly Kustanovich.github.io
 
 Welcome to my page ;)!
-<img src="PHOTO.jpg" width="300" style="border-radius: 15px;" align="right">
+<img src="my_photo.jpg" width="200" style="border-radius: 15px;" align="right">
+
+
 My name is **Anatoly Kustanovich**. 
 I work in the [Weizmann Insitute of Science](https://www.weizmann.ac.il/pages/) in the [laboratory of Prof. Schraga Schwartz](https://www.weizmann.ac.il/molgen/schwartz/).
+More details You can find on the [Linkedin page](https://www.linkedin.com/in/anatoli-kustanovich/) 
 
 
 **These are several useful links:**
@@ -11,5 +14,8 @@ I work in the [Weizmann Insitute of Science](https://www.weizmann.ac.il/pages/) 
 [Python course in Weizmann Institute](https://github.com/szabgab/wis-python-course-2024-11)
 
 [Page of Gábor Szabó ](https://szabgab.com/)
+
+
+![](hedgehog.jpg")
 
 
