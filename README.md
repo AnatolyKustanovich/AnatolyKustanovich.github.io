@@ -16,8 +16,12 @@ More details You can find on the [Linkedin page](https://www.linkedin.com/in/ana
 [Page of Gábor Szabó ](https://szabgab.com/)
 
 
+
+
 **And here is a Wezmann's hedgehog :)**
 
 <img src="hedgehog.jpg" width="200" style="border-radius: 15px;" align="left">
+
+
 
 
