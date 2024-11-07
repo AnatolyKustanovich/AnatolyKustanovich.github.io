@@ -1,1 +1,3 @@
-_config.y
+# _config.yml
+title: "Anatoly Kustanovich"
+theme: jekyll-theme-cayman
