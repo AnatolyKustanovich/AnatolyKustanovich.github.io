@@ -1,4 +1,4 @@
-# AnatolyKustanovich.github.io
+# Anatoly Kustanovich
 
 Welcome to my page ;)!
 <img src="my_photo1.jpg" width="200" style="border-radius: 15px;" align="right">
