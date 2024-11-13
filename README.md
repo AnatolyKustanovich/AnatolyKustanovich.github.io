@@ -14,7 +14,7 @@ More details You can find on the [Linkedin page](https://www.linkedin.com/in/ana
 
 [Python course in Weizmann Institute](https://github.com/szabgab/wis-python-course-2024-11)
 
-[Page of Gábor Szabó ](https://szabgab.com/)
+Page of [Gábor Szabó ](https://szabgab.com/)
 
 
 
