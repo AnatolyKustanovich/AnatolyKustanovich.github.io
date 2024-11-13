@@ -21,7 +21,7 @@ More details You can find on the [Linkedin page](https://www.linkedin.com/in/ana
 
 **And here is a Weizmann's hedgehog :)**
 
-<img src="hedgehog.jpg" width="200" style="border-radius: 15px;" align="left">
+<img src="hedgehog.jpg" width="200" style="border-radius: 15px;" align="center">
 
 
 
